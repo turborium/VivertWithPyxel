@@ -1,0 +1,2 @@
+# VivertWithPyxel
+засохший кусок кода
